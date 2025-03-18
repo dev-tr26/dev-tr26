@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/being_diplomatc" target="blank"><img src="https://img.shields.io/twitter/follow/being_diplomatc?logo=twitter&style=for-the-badge" alt="being_diplomatc" /></a> </p>
 
-- 🔭 I’m currently working on **ML-Driven Space Debris Collision Risk Analyzer**
+
 
 - 🌱 I’m currently learning **deep learning**
 
