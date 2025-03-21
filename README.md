@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rudra Trangadia</h1>
-<h3 align="center">A passionate Ml engineer</h3>
+<h3 align="center">A passionate Ml engineer, who loves to solve real world problems with ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-tr26&label=Profile%20views&color=0e75b6&style=flat" alt="dev-tr26" /> </p>
 
