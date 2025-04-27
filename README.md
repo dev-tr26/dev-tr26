@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Rudra Trangadia</h1>
+<h1 align="center">Hi 👋, I'm Rudra 😎</h1>
 <h3 align="center">A passionate Ml engineer & Quantum Computing enthusiast </h3> 
 <h3 align="center">  who loves to solve real world problems with ML <h3>
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **maths, ml, quantum computing**
 
-- 📫 How to reach me **trangadiarudra26@gmail.com**
+- 📫 How to reach me **beingdiplomatic3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
