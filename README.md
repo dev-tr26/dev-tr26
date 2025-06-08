@@ -21,7 +21,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/being_diplomatc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="being_diplomatc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/rudra-trangadia-08b679241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/rudra-trangadia-08b679241" height="30" width="40" /></a>
 <a href="https://kaggle.com/tdfs rtx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tdfs rtx" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dev-tr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dev-tr" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rtx20093" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rtx20093" height="30" width="40" /></a>
