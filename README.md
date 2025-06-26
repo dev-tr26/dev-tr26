@@ -22,8 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/being_diplomatc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="being_diplomatc" height="30" width="40" /></a>
 <a href="https://kaggle.com/tdfs rtx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tdfs rtx" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dev-tr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dev-tr" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rtx20093" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rtx20093" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
