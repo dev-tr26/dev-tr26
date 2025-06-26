@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **maths, ml, deeplearning, computervision**
 
-- 📫 How to reach me **beingdiplomatic3@gmail.com**
+- 📫 How to reach me **turing2604@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
