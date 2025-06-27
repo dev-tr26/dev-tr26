@@ -34,6 +34,9 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-tr26&show_icons=true&locale=en" alt="dev-tr26" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-tr26&theme=dark" alt="dev-tr26" /></p>
+
+
+[![Alan Tu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-tr26&days=45&bg_color=0c1014&color=268f77&line=268f77&point=268f77&area=true&hide_border=true)]
