@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-tr26" alt="dev-tr26" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/being_diplomatc" target="blank"><img src="https://img.shields.io/twitter/follow/being_diplomatc?logo=twitter&style=for-the-badge" alt="being_diplomatc" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Turingetic_Guy" target="blank"><img src="https://img.shields.io/twitter/follow/Turingetic_Guy?logo=twitter&style=for-the-badge" alt="Turingetic_Guy" /></a> </p>
 
 
 
@@ -20,9 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/being_diplomatc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="being_diplomatc" height="30" width="40" /></a>
+<a href="https://twitter.com/Turingetic_Guy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Turingetic_Guy" height="30" width="40" /></a>
 <a href="https://kaggle.com/tdfs rtx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tdfs rtx" height="30" width="40" /></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
