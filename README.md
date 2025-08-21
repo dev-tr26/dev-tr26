@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Turingetic Guy 😎</h1>
 <h2> A Alan Turing fanboy !!</h2>
 <h3 align="center">Passionate about  embedded systems , DL Architectures, communication systems, Low level Programming</h3> 
-<h3 align="center">  I work on NLP and Speech Models <h3>
+<h3 align="center">  I work on NLP and LLMs <h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-tr26&label=Profile%20views&color=0e75b6&style=flat" alt="dev-tr26" /> </p>
 
@@ -12,7 +12,7 @@
 
 
 
-- 🌱 I’m currently learning **speech Processing**
+- 🌱 I’m currently learning **NLP**
 
 - 💬 Ask me about **maths,deep learning, NLP**
 
