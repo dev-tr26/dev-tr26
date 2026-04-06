@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Turingetic Guy 😎</h1>
 <h2> A Alan Turing fanboy !!</h2>
-<h3 align="center">  I work on Audio LLMs and NLP <h3>
+<h3 align="center">  I work on Audio LLMs and Speech Processing<h3>
 <h3 align="center"> A ML engineer who loves embedded systems &  Low level Programming</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-tr26&label=Profile%20views&color=0e75b6&style=flat" alt="dev-tr26" /> </p>
